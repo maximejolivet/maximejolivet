@@ -19,8 +19,8 @@ I'm Max — a passionate developer, tech enthusiast, and lifelong learner.
 ## 📫 Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/jolivetmaxime)
-- [Portfolio](https://maximejolivet.fr) *(si tu en as un)*
-- Email: maximejolivet.pro@gmail.com
+- [Portfolio](https://maximejolivet.fr) ⏳ 🚧 👀
+- Email : maximejolivet.pro@gmail.com
 
 ---
 
