@@ -8,9 +8,9 @@ I'm Max — a passionate developer, tech enthusiast, and lifelong learner.
 
 - 💻 Web development CMS with Wordpress and Drupal
 - 🎨 Designing UX/UIs with Tailwind CSS & modern frontend tools
-- ⚙️ Working on Drupal, Wordpress, VueJs, NuxtJs
+- ⚙️ Working on Drupal & Wordpress, a little with VueJs, NuxtJs
 - 🚧 Learning soon Laravel & Symfony
-- 🧠 Always exploring new tech
+- 🧠 Always exploring new tech IA, UX, UI, SEO, SXO
 
 ## 🔧 Tools & Technologies
 
