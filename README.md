@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm Max — a passionate developer, tech enthusiast, and lifelong learner.
+I'm Max - a passionate developer, tech enthusiast, and lifelong learner.
 
 ## 🚀 What I do
 
@@ -10,16 +10,17 @@ I'm Max — a passionate developer, tech enthusiast, and lifelong learner.
 - 🎨 Designing UX/UIs with Tailwind CSS & modern frontend tools
 - ⚙️ Working on Drupal & Wordpress, a little with VueJs, NuxtJs
 - 🚧 Learning soon Laravel & Symfony
-- 🧠 Always exploring new tech IA, UX, UI, SEO, SXO
+- 🧠 Always exploring new tech IA, UX, UI, SEO, SXO, GEO
 
 ## 🔧 Tools & Technologies
 
-![Your Favorite Languages](https://skillicons.dev/icons?i=js,php,vue,tailwind,git,gitlab,gulp,vite,wordpress,laravel,symfony,phpstorm)
+![Your Favorite Languages](html,css,js,php,vue,tailwind,ts,git,gitlab,gulp,vite,wordpress,laravel,symfony,phpstorm,docker,git,github,gitlab)
 
 ## 📫 Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/jolivetmaxime)
-- [Portfolio](https://maximejolivet.fr) ⏳ 🚧 👀
+- [Portfolio](https://maximejolivet.fr)
+- [Curriculum vitæ](https://maximejolivet.fr/fr/cv)
 - Email : maximejolivet.pro@gmail.com
 
 ---
