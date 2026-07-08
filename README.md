@@ -14,7 +14,7 @@ I'm Max - a passionate developer, tech enthusiast, and lifelong learner.
 
 ## 🔧 Tools & Technologies
 
-[![Your Favorite Languages](html,css,js,php,vue,tailwind,ts,git,gitlab,gulp,vite,wordpress,laravel,symfony,phpstorm,docker,git,github,gitlab)](https://skillicons.dev/icons?i=html,css,js,php,vue,tailwind,ts,git,gitlab,gulp,vite,wordpress,laravel,symfony,phpstorm,docker,git,github,gitlab)
+![Your Favorite Languages](https://skillicons.dev/icons?i=html,css,js,php,vue,tailwind,ts,git,gitlab,gulp,vite,wordpress,laravel,symfony,phpstorm,docker,git,github,gitlab)
 
 ## 📫 Let's connect
 
