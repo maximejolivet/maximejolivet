@@ -1,4 +1,4 @@
-# ⭐ Starred GitHub repos on AI
+# 🤖 GitHub repos on AI
 
 A selection of repositories I've starred around AI, coding agents and LLMs.
 

@@ -27,6 +27,10 @@ I'm Max - a passionate developer, tech enthusiast, and lifelong learner.
 
 👉 [See all my repositories](https://github.com/maximejolivet?tab=repositories)
 
+## 🤖 GitHub repos on AI
+
+A curated list of AI repositories I follow: coding agents, Claude skills, prompts, design and security → [IA.md](IA.md)
+
 ## 🔧 Tools & Technologies
 
 ![Your Favorite Languages](https://skillicons.dev/icons?i=html,css,js,php,vue,tailwind,ts,git,gitlab,gulp,vite,wordpress,laravel,symfony,phpstorm,docker,git,github,gitlab)
