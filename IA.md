@@ -14,6 +14,12 @@ A selection of repositories I've starred around AI, coding agents and LLMs.
 | [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) | Search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor (Claude Code, Cursor, Windsurf) |
 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | CLI tool to discover, install and manage agent skills across 75+ coding agents including Claude Code, OpenCode, Cursor, Cline and others |
 
+## 🔌 AI Gateways & Routing
+
+| Repo | Description |
+| --- | --- |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Free MIT-licensed AI gateway consolidating 357+ AI providers through a single endpoint; automatic fallback routing, 19 routing strategies, token compression (15-95% savings), and catalogs 1.62B free monthly tokens across 150+ free-tier providers |
+
 ## 📚 Official & reference skills
 
 | Repo | Description |
@@ -93,6 +99,12 @@ Une sélection de dépôts que j'ai marqués comme favoris autour de l'IA, des a
 | [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) | Un seul fichier `CLAUDE.md`, sans changements de code, qui arrête le rembourrage des réponses de Claude (openers, questions reformulées, suggestions non sollicitées, sur-ingénierie) pour réduire les tokens de sortie. Évalué sur Claude uniquement ; gardez le fichier court car il ajoute des tokens d'entrée à chaque tour |
 | [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) | Cherchez 10 000+ composants React/Tailwind, générez une nouvelle interface utilisateur avec l'IA et publiez la vôtre — directement depuis votre éditeur (Claude Code, Cursor, Windsurf) |
 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | Outil CLI pour découvrir, installer et gérer les compétences des agents sur 75+ agents de codage incluant Claude Code, OpenCode, Cursor, Cline et autres |
+
+## 🔌 Gateways et routage IA
+
+| Dépôt | Description |
+| --- | --- |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Gateway IA gratuit sous licence MIT consollidant 357+ fournisseurs d'IA à travers un seul point de terminaison ; routage automatique de secours, 19 stratégies de routage, compression de tokens (économies de 15-95%), et catalogue 1,62 milliards de tokens gratuits mensuels sur 150+ fournisseurs avec niveau gratuit |
 
 ## 📚 Compétences officielles et de référence
 
