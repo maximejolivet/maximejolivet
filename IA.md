@@ -42,6 +42,7 @@ A selection of repositories I've starred around AI, coding agents and LLMs.
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 60+ interconnected marketing skills for conversion optimization, copywriting, SEO, analytics, and growth engineering across all AI agents |
 | [blader/humanizer](https://github.com/blader/humanizer) | Agent skill that detects and removes 26+ patterns of AI-generated text, making output read naturally and personally without changing factual content |
 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | Agent skill that automates launch video creation: generates 20-second promotional videos with music, motion and custom share copy from your project |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Skill that restructures AI assistant responses to be more direct and actionable, leading with immediate next steps and avoiding verbose preambles; follows 10 core rules to combat information overload and improve clarity across Claude, Cursor, Kimi and other coding platforms |
 
 ## 🔗 Awesome lists
 
@@ -128,6 +129,7 @@ Une sélection de dépôts que j'ai marqués comme favoris autour de l'IA, des a
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 60+ compétences marketing interconnectées pour l'optimisation de conversion, la rédaction, le SEO, l'analyse et l'ingénierie de croissance sur tous les agents IA |
 | [blader/humanizer](https://github.com/blader/humanizer) | Compétence d'agent qui détecte et supprime 26+ modèles de texte généré par l'IA, ce qui rend la sortie lue naturellement et personnellement sans modifier le contenu factuel |
 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | Compétence d'agent qui automatise la création de vidéos de lancement : génère des vidéos promotionnelles de 20 secondes avec musique, mouvement et texte de partage personnalisé à partir de votre projet |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Compétence qui restructure les réponses des assistants IA pour être plus directes et actionnables, commençant par les étapes suivantes immédiates et évitant les préambules verbeux ; suit 10 règles de base pour combattre la surcharge d'informations et améliorer la clarté sur Claude, Cursor, Kimi et autres plateformes de codage |
 
 ## 🔗 Listes impressionnantes
 
