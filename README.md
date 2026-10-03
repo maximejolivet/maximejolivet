@@ -16,15 +16,15 @@ I'm Max - a passionate developer, tech enthusiast, and lifelong learner.
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [symfony-nuxt-ia-rag-chatbot](https://github.com/maximejolivet/symfony-nuxt-ia-rag-chatbot) | Admin-managed chatbot with RAG (Qdrant) and real LLM tool-calling, running on local or cloud Ollama models | Symfony, API Platform, Nuxt, Vue |
-| [portfolio](https://github.com/maximejolivet/portfolio) | My personal portfolio → [maxime.bzh](https://maxime.bzh) | Vue |
-| [ludmigo](https://github.com/maximejolivet/ludmigo) | Community platform for sharing and discovering board games | Laravel, Vue |
-| [defis-photo](https://github.com/maximejolivet/defis-photo) | Photo challenge web app: sign-up, photo upload, gallery, ranking and slideshow | React, Vite |
-| [pomodoro-accessibility](https://github.com/maximejolivet/pomodoro-accessibility) | Accessible Pomodoro timer with focus on inclusive design, keyboard navigation and WCAG compliance | React, Vite, Tailwind CSS |
-| [tailwindcss4-wordpress](https://github.com/maximejolivet/tailwindcss4-wordpress) | WordPress starter with Timber, Vite and Tailwind CSS 4 | PHP, WordPress, Tailwind CSS |
-| [tailwindcss4-drupal](https://github.com/maximejolivet/tailwindcss4-drupal) | Drupal 11 starter with Vite and Tailwind CSS 4 | PHP, Drupal, Tailwind CSS |
+| [symfony-nuxt-ia-rag-chatbot](https://github.com/maximejolivet/symfony-nuxt-ia-rag-chatbot) | Admin-managed chatbot with RAG (Qdrant) and real LLM tool-calling, running on local or cloud Ollama models | Symfony, API Platform, Nuxt, Vue, TypeScript |
+| [portfolio](https://github.com/maximejolivet/portfolio) | My personal portfolio → [maxime.bzh](https://maxime.bzh) | Nuxt, Vue, TypeScript, Supabase |
+| [ludmigo](https://github.com/maximejolivet/ludmigo) | Community platform for sharing and discovering board games | Laravel, Vue, Inertia, Tailwind CSS |
+| [defis-photo](https://github.com/maximejolivet/defis-photo) | Photo challenge web app: sign-up, photo upload, gallery, ranking and slideshow | React, TypeScript, Vite, Capacitor |
+| [pomodoro-accessibility](https://github.com/maximejolivet/pomodoro-accessibility) | Accessible Pomodoro timer with focus on inclusive design, keyboard navigation and WCAG compliance | Angular, TypeScript, Capacitor, Tailwind CSS |
+| [tailwindcss4-wordpress](https://github.com/maximejolivet/tailwindcss4-wordpress) | WordPress starter with Timber, Vite and Tailwind CSS 4 | PHP, WordPress, Timber, Vite, Tailwind CSS |
+| [tailwindcss4-drupal](https://github.com/maximejolivet/tailwindcss4-drupal) | Drupal 11 starter with Vite and Tailwind CSS 4 | PHP, Drupal, Vite, Tailwind CSS |
 | [labs-drupal](https://github.com/maximejolivet/labs-drupal) | Drupal labs: custom modules and themes in one place | PHP, Drupal |
-| [tech-stack-lab](https://github.com/maximejolivet/tech-stack-lab) | Learning notes, experiments and resources across web dev: JS/TS, Node.js, Vue, Nuxt, PHP, Drupal, WordPress, DevOps, Git, AI… | Multi-stack |
+| [tech-stack-lab](https://github.com/maximejolivet/tech-stack-lab) | Learning notes, experiments and resources across web dev: JS/TS, Node.js, Vue, Nuxt, PHP, Drupal, WordPress, DevOps, Git, AI… | Multi-stack, Documentation |
 
 👉 [See all my repositories](https://github.com/maximejolivet?tab=repositories)
 
