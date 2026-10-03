@@ -50,6 +50,20 @@ Drupal labs: custom modules and themes in one place
 Learning notes, experiments and resources across web dev: JS/TS, Node.js, Vue, Nuxt, PHP, Drupal, WordPress, DevOps, Git, AI…  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Multi-stack](https://img.shields.io/badge/Multi--stack-000000?style=flat)
 
+## Quick Reference
+
+| Project | Stack |
+| --- | --- |
+| [symfony-nuxt-ia-rag-chatbot](https://github.com/maximejolivet/symfony-nuxt-ia-rag-chatbot) | Symfony, API Platform, Nuxt, Vue, TypeScript |
+| [portfolio](https://github.com/maximejolivet/portfolio) | Nuxt, Vue, TypeScript, Supabase |
+| [ludmigo](https://github.com/maximejolivet/ludmigo) | Laravel, Vue, Inertia, Tailwind CSS |
+| [defis-photo](https://github.com/maximejolivet/defis-photo) | React, TypeScript, Vite, Capacitor |
+| [pomodoro-accessibility](https://github.com/maximejolivet/pomodoro-accessibility) | Angular, TypeScript, Capacitor, Tailwind CSS |
+| [tailwindcss4-wordpress](https://github.com/maximejolivet/tailwindcss4-wordpress) | PHP, WordPress, Timber, Vite, Tailwind CSS |
+| [tailwindcss4-drupal](https://github.com/maximejolivet/tailwindcss4-drupal) | PHP, Drupal, Vite, Tailwind CSS |
+| [labs-drupal](https://github.com/maximejolivet/labs-drupal) | PHP, Drupal |
+| [tech-stack-lab](https://github.com/maximejolivet/tech-stack-lab) | Multi-stack, Documentation |
+
 👉 [See all my repositories](https://github.com/maximejolivet?tab=repositories)
 
 ## 🤖 GitHub repos on AI
