@@ -1,5 +1,7 @@
 # 🤖 GitHub repos on AI
 
+## 🇬🇧 English
+
 A curated selection of repositories around AI, coding agents and LLMs.
 
 **Quick Stats:** 50+ repos across 9 categories | Agents, Skills, Gateways, Data Tools, Design & Security
@@ -100,6 +102,8 @@ A curated selection of repositories around AI, coding agents and LLMs.
 ---
 
 # 🤖 Dépôts GitHub sur l'IA
+
+## 🇫🇷 Français
 
 Une sélection de dépôts autour de l'IA, des agents de codage et des LLM.
 
