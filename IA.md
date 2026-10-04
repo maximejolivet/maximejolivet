@@ -1,6 +1,20 @@
 # 🤖 GitHub repos on AI
 
-A selection of repositories I've starred around AI, coding agents and LLMs.
+A curated selection of repositories around AI, coding agents and LLMs.
+
+**Quick Stats:** 50+ repos across 9 categories | Agents, Skills, Gateways, Data Tools, Design & Security
+
+## 📑 Categories
+
+- [🤖 Coding agents & Claude Code](#-coding-agents--claude-code)
+- [🔌 AI Gateways & Routing](#-ai-gateways--routing)
+- [📚 Official & reference skills](#-official--reference-skills)
+- [🧰 Skill collections](#-skill-collections)
+- [🔗 Awesome lists](#-awesome-lists)
+- [💬 Prompts](#-prompts)
+- [🔧 Data & Web Tools](#-data--web-tools)
+- [🎨 Design & UI generation](#-design--ui-generation)
+- [🔒 Security](#-security)
 
 ## 🤖 Coding agents & Claude Code
 

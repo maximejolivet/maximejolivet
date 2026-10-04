@@ -6,11 +6,10 @@ I'm Max - a passionate developer, tech enthusiast, and lifelong learner.
 
 ## 🚀 What I do
 
-- 💻 Web development CMS with Wordpress and Drupal
-- 🎨 Designing UX/UIs with Tailwind CSS & modern frontend tools
-- ⚙️ Working on Drupal & Wordpress, a little with VueJs, NuxtJs
-- 🚧 Learning soon Laravel & Symfony
-- 🧠 Always exploring new tech IA, UX, UI, SEO, SXO, GEO
+- 💻 Full-stack web development with **PHP** (Laravel, Symfony, WordPress, Drupal)
+- 🎨 Modern frontend development with **Vue.js, Nuxt.js, React, Angular**
+- 🤖 AI integration & chatbots with RAG, LLMs and agentic workflows
+- ⚡ Performance optimization, accessibility & SEO
 
 ## ⭐ Featured projects
 
@@ -32,9 +31,9 @@ I'm Max - a passionate developer, tech enthusiast, and lifelong learner.
 
 A curated list of AI repositories I follow: coding agents, Claude skills, prompts, design and security → [IA.md](IA.md)
 
-## 🔧 Tools & Technologies
+## 💼 Tech Stack
 
-![Your Favorite Languages](https://skillicons.dev/icons?i=html,css,js,php,vue,tailwind,ts,git,gitlab,gulp,vite,wordpress,laravel,symfony,phpstorm,docker,git,github,gitlab)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,php,vue,tailwind,ts,git,gitlab,gulp,vite,wordpress,laravel,symfony,phpstorm,docker,github)
 
 ## 📫 Let's connect
 
