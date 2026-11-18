@@ -4,25 +4,37 @@
 
 A curated selection of repositories around AI, coding agents and LLMs.
 
-**Quick Stats:** 50+ repos across 9 categories | Agents, Skills, Gateways, Data Tools, Design & Security
+**Quick Stats:** 58 repos across 10 categories | Agents, Skills, Gateways, MCP, Data Tools, Design & Security
 
 ## 📑 Categories
 
-- [🤖 Coding agents & Claude Code](#-coding-agents--claude-code)
-- [🔌 AI Gateways & Routing](#-ai-gateways--routing)
-- [📚 Official & reference skills](#-official--reference-skills)
-- [🧰 Skill collections](#-skill-collections)
-- [🔗 Awesome lists](#-awesome-lists)
-- [💬 Prompts](#-prompts)
-- [🔧 Data & Web Tools](#-data--web-tools)
-- [🎨 Design & UI generation](#-design--ui-generation)
-- [🔒 Security](#-security)
+- [🤖 Coding agents & Claude Code](#-coding-agents--claude-code-18-repos)
+- [🔌 AI Gateways & Routing](#-ai-gateways--routing-2-repos)
+- [📚 Official & reference skills](#-official--reference-skills-3-repos)
+- [🧰 Skill collections](#-skill-collections-13-repos)
+- [🔗 Awesome lists](#-awesome-lists-7-repos)
+- [🧩 MCP servers](#-mcp-servers-3-repos)
+- [💬 Prompts](#-prompts-1-repo)
+- [🔧 Data & Web Tools](#-data--web-tools-6-repos)
+- [🎨 Design & UI generation](#-design--ui-generation-2-repos)
+- [🔒 Security](#-security-3-repos)
 
-## 🤖 Coding agents & Claude Code (7 repos)
+## 🤖 Coding agents & Claude Code (18 repos)
 
 | Repo | Description |
 | --- | --- |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Terminal-based agentic coding tool with codebase understanding and natural language workflows |
+| [openai/codex](https://github.com/openai/codex) | OpenAI's lightweight coding agent that runs in your terminal |
+| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | Open-source agent that brings Gemini directly into your terminal |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | Open-source, provider-agnostic coding agent (formerly sst/opencode) |
+| [cline/cline](https://github.com/cline/cline) | Autonomous coding agent available as an SDK, IDE extension or CLI |
+| [aaif-goose/goose](https://github.com/aaif-goose/goose) | Extensible open-source agent that installs, executes, edits and tests with any LLM (formerly block/goose) |
+| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | Open-source platform for AI-driven development |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | Minimal, extensible agent harness: extensions, skills, prompt templates and TypeScript SDK |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Self-improving agent with a built-in learning loop that creates skills from experience |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek's "everything is a plugin" agent harness (developer preview, breaking changes expected) |
+| [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) | Minimal CLI coding agent by Mistral |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent memory across sessions: captures agent activity, compresses it and injects relevant context |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | Agent harness optimization: skills, memory, security, research-first development |
 | [agentskills/agentskills](https://github.com/agentskills/agentskills) | Open format spec for giving agents new capabilities & expertise ([agentskills.io](https://agentskills.io)) |
 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | CLI proxy reducing LLM token use by 60-90% on dev commands (Rust, zero deps) |
@@ -30,44 +42,58 @@ A curated selection of repositories around AI, coding agents and LLMs.
 | [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) | Search 10k+ React/Tailwind components, generate UI with AI right from editor |
 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | Discover, install and manage agent skills across 75+ coding agents |
 
-## 🔌 AI Gateways & Routing (1 repo)
+## 🔌 AI Gateways & Routing (2 repos)
 
 | Repo | Description |
 | --- | --- |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Free MIT gateway consolidating 357+ AI providers; 19 routing strategies, token compression (15-95%), 1.62B free monthly tokens |
+| [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | Free MIT gateway: one endpoint for 375 providers (150+ free) and 1,400+ models, with quota-aware auto-fallback and token compression |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | AI gateway calling 100+ LLM APIs in OpenAI format, with cost tracking, guardrails, load balancing and logging |
 
-## 📚 Official & reference skills (2 repos)
+## 📚 Official & reference skills (3 repos)
 
 | Repo | Description |
 | --- | --- |
 | [obra/superpowers](https://github.com/obra/superpowers) | Complete methodology for coding agents: spec clarification → planning → subagent-driven dev (TDD, YAGNI, DRY) |
 | [anthropics/skills](https://github.com/anthropics/skills) | Anthropic's official Claude skills: instructions, scripts, resources for specialized tasks + doc creation (docx, pptx, xlsx, pdf) |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official, Anthropic-managed directory of high-quality Claude Code plugins |
 
-## 🧰 Skill collections (12 repos)
+## 🧰 Skill collections (13 repos)
 
 | Repo | Description |
 | --- | --- |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | Production-ready composable skills from `.agents` directory; install as plugin or editable copies |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents |
-| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 2,115+ agentic skills with CLI, local MCP and catalog |
-| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 380 skills & commands for Claude Code, Codex, Cursor, Gemini CLI |
+| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 2,955+ reusable agent skills with CLI, MCP, plugins and local catalog |
+| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 410 skills, agents & commands for Claude Code, Codex, Cursor, Gemini CLI and more |
 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 67 specialized skills + 9 workflows for full-stack developers (Claude Code plugin) |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a game dev studio: 49 agents and 75 workflow skills mirroring a real studio hierarchy |
 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | Convert descriptions to interactive HTML diagrams (architecture, workflow, sequence, data flow) |
-| [dietrichgebert/ponytail](https://github.com/dietrichgebert/ponytail) | "Laziness ladder" skill: write minimal necessary code (~54% less generation) |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | "Laziness ladder" skill: write minimal necessary code (~54% less generation) |
 | [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) | Playwright automation skill for agents to write & execute browser tests |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 60+ marketing skills: conversion, copywriting, SEO, analytics, growth engineering |
 | [blader/humanizer](https://github.com/blader/humanizer) | Remove 26+ AI-generated text patterns while preserving factual content |
 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | Automate launch video creation: 20s promo videos with music & motion |
 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Restructure AI responses: direct, actionable, minimal preambles (10 core rules) |
 
-## 🔗 Awesome lists (4 repos)
+## 🔗 Awesome lists (7 repos)
 
 | Repo | Description |
 | --- | --- |
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 1,000+ production-ready Claude Skills for productivity (Claude.ai, Claude Code, Cursor, Gemini CLI) |
-| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 1,497+ real-world Agent Skills (official teams + community, not AI-generated) |
+| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 1,000+ real-world Agent Skills (official teams + community, not AI-generated) |
 | [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | Claude Skills with getting-started guide, progressive loading explanation |
 | [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) | Claude Skills by category: docs, dev tools, data, research, writing, media, security, testing |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | Hand-picked resources for Claude Code |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | Large collection of MCP servers |
+| [bradAGI/awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents) | Directory of terminal-native coding agents and the harnesses that orchestrate them |
+
+## 🧩 MCP servers (3 repos)
+
+| Repo | Description |
+| --- | --- |
+| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol reference servers |
+| [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | Microsoft's Playwright MCP server for browser automation |
+| [github/github-mcp-server](https://github.com/github/github-mcp-server) | GitHub's official MCP server |
 
 ## 💬 Prompts (1 repo)
 
@@ -75,14 +101,15 @@ A curated selection of repositories around AI, coding agents and LLMs.
 | --- | --- |
 | [f/prompts.chat](https://github.com/f/prompts.chat) | Share, discover & collect community prompts (formerly Awesome ChatGPT Prompts); free, open source, self-hostable |
 
-## 🔧 Data & Web Tools (5 repos)
+## 🔧 Data & Web Tools (6 repos)
 
 | Repo | Description |
 | --- | --- |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Web data API: search, scrape, interact, crawl 96% of web with LLM-ready output |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Knowledge infrastructure for agents: search, scrape and 550+ data providers through one API |
 | [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | Convert documents (Word, PPT, Excel, PDF, etc.) to clean Markdown (<5ms median) |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Transform codebases into queryable knowledge graphs (~40 programming languages) |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Transform codebases, docs, SQL schemas and PDFs into queryable knowledge graphs |
 | [upstash/context7](https://github.com/upstash/context7) | Up-to-date, version-specific docs & examples for AI assistants (no hallucinations) |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents |
 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Strip AI provenance marks (Unicode, bidirectional text, EXIF, XMP) from images, docs |
 
 ## 🎨 Design & UI generation (2 repos)
@@ -92,12 +119,13 @@ A curated selection of repositories around AI, coding agents and LLMs.
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | AI skill for professional UI/UX design intelligence across multiple platforms |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | Open-source Claude Design alternative (desktop app): prototypes, pages, dashboards, slides, video export |
 
-## 🔒 Security (2 repos)
+## 🔒 Security (3 repos)
 
 | Repo | Description |
 | --- | --- |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | Security auditor skill: 6-phase assessment (reconnaissance, hunting, validation, reporting) |
-| [nvidia/skillspector](https://github.com/nvidia/skillspector) | Security scanner: analyzes agent skills for 71 vulnerability patterns (71 patterns, 17 categories) |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Security scanner: analyzes agent skills before install for vulnerabilities, prompt injection and data exfiltration (71 patterns, 17 categories) |
+| [trailofbits/skills](https://github.com/trailofbits/skills) | Trail of Bits skills for security research, vulnerability detection and audit workflows |
 
 ---
 
@@ -107,11 +135,22 @@ A curated selection of repositories around AI, coding agents and LLMs.
 
 Une sélection de dépôts autour de l'IA, des agents de codage et des LLM.
 
-## 🤖 Agents de codage et Claude Code (7 repos)
+## 🤖 Agents de codage et Claude Code (18 repos)
 
 | Dépôt | Description |
 | --- | --- |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Outil de codage agentic en terminal avec compréhension du codebase et flux de travail en langage naturel |
+| [openai/codex](https://github.com/openai/codex) | Agent de codage léger d'OpenAI qui s'exécute dans le terminal |
+| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | Agent open source qui amène Gemini directement dans le terminal |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | Agent de codage open source, indépendant du fournisseur (anciennement sst/opencode) |
+| [cline/cline](https://github.com/cline/cline) | Agent de codage autonome disponible en SDK, extension IDE ou CLI |
+| [aaif-goose/goose](https://github.com/aaif-goose/goose) | Agent open source extensible qui installe, exécute, modifie et teste avec n'importe quel LLM (anciennement block/goose) |
+| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | Plateforme open source de développement piloté par l'IA |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | Harnais d'agent minimal et extensible : extensions, compétences, modèles de prompts et SDK TypeScript |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Agent auto-améliorant avec boucle d'apprentissage intégrée qui crée des compétences à partir de l'expérience |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | Harnais d'agent DeepSeek « tout est plugin » (préversion développeur, changements incompatibles à prévoir) |
+| [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) | Agent de codage CLI minimal de Mistral |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Mémoire persistante entre sessions : capture l'activité de l'agent, la compresse et réinjecte le contexte utile |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | Optimisation du harnais d'agent : compétences, mémoire, sécurité, développement axé sur la recherche |
 | [agentskills/agentskills](https://github.com/agentskills/agentskills) | Spécification open format pour donner aux agents nouvelles capacités & expertise ([agentskills.io](https://agentskills.io)) |
 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | Proxy CLI réduisant consommation tokens LLM de 60-90% sur commandes dev (Rust, zéro deps) |
@@ -119,44 +158,58 @@ Une sélection de dépôts autour de l'IA, des agents de codage et des LLM.
 | [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) | Cherchez 10k+ composants React/Tailwind, générez UI avec IA directement depuis l'éditeur |
 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | Découvrir, installer et gérer compétences d'agents sur 75+ agents de codage |
 
-## 🔌 Gateways et routage IA (1 repo)
+## 🔌 Gateways et routage IA (2 repos)
 
 | Dépôt | Description |
 | --- | --- |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Gateway IA gratuit (MIT) : 357+ fournisseurs, 19 stratégies routage, compression tokens (15-95%), 1,62B tokens gratuits |
+| [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | Gateway IA gratuit (MIT) : un seul point d'accès pour 375 fournisseurs (150+ gratuits) et 1 400+ modèles, bascule automatique selon les quotas et compression de tokens |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | Gateway IA appelant 100+ API LLM au format OpenAI, avec suivi des coûts, garde-fous, répartition de charge et journalisation |
 
-## 📚 Compétences officielles et de référence (2 repos)
+## 📚 Compétences officielles et de référence (3 repos)
 
 | Dépôt | Description |
 | --- | --- |
 | [obra/superpowers](https://github.com/obra/superpowers) | Méthodologie complète pour agents : clarification spec → planning → dev piloté sous-agents (TDD, YAGNI, DRY) |
 | [anthropics/skills](https://github.com/anthropics/skills) | Compétences officielles Claude : instructions, scripts, ressources pour tâches spécialisées + création docs |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Répertoire officiel de plugins Claude Code de qualité, géré par Anthropic |
 
-## 🧰 Collections de compétences (12 repos)
+## 🧰 Collections de compétences (13 repos)
 
 | Dépôt | Description |
 | --- | --- |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | Compétences composables réelles depuis répertoire `.agents` ; installer comme plugin ou copies éditables |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Compétences d'ingénierie qualité production pour agents IA |
-| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 2 115+ compétences agentic avec CLI, MCP local et catalogue |
-| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 380 compétences & commandes pour Claude Code, Codex, Cursor, Gemini CLI |
+| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 2 955+ compétences réutilisables avec CLI, MCP, plugins et catalogue local |
+| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 410 compétences, agents & commandes pour Claude Code, Codex, Cursor, Gemini CLI et plus |
 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 67 compétences + 9 flux de travail pour full-stack (plugin Claude Code) |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Transforme Claude Code en studio de jeu vidéo : 49 agents et 75 compétences calqués sur la hiérarchie d'un vrai studio |
 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | Transformez descriptions en diagrammes HTML interactifs (architecture, flux de travail, séquence) |
-| [dietrichgebert/ponytail](https://github.com/dietrichgebert/ponytail) | Compétence "palier de paresse" : écrire code minimal (~54% moins de génération) |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Compétence "palier de paresse" : écrire code minimal (~54% moins de génération) |
 | [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) | Automatisation Playwright pour agents de codage |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 60+ compétences marketing : conversion, copywriting, SEO, growth engineering |
 | [blader/humanizer](https://github.com/blader/humanizer) | Supprimer 26+ patterns texte généré par IA tout en préservant contenu factuel |
 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | Automatiser création vidéos de lancement : 20s promo avec musique et motion |
 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Restructurer réponses IA : directes, actionnables, minimal preambles (10 règles) |
 
-## 🔗 Listes impressionnantes (4 repos)
+## 🔗 Listes impressionnantes (7 repos)
 
 | Dépôt | Description |
 | --- | --- |
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 1 000+ Claude Skills prêts production pour productivité (Claude.ai, Claude Code, Cursor, Gemini CLI) |
-| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 1 497+ compétences d'agent réelles (équipes officielles + communauté, pas auto-générées) |
+| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 1 000+ compétences d'agent réelles (équipes officielles + communauté, pas auto-générées) |
 | [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | Claude Skills avec guide démarrage, explications chargement progressif |
 | [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) | Claude Skills par catégorie : docs, dev, data, recherche, écriture, média, sécurité, tests |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | Ressources triées sur le volet pour Claude Code |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | Vaste collection de serveurs MCP |
+| [bradAGI/awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents) | Annuaire des agents de codage en terminal et des harnais qui les orchestrent |
+
+## 🧩 Serveurs MCP (3 repos)
+
+| Dépôt | Description |
+| --- | --- |
+| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | Serveurs de référence du Model Context Protocol |
+| [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | Serveur MCP Playwright de Microsoft pour automatiser le navigateur |
+| [github/github-mcp-server](https://github.com/github/github-mcp-server) | Serveur MCP officiel de GitHub |
 
 ## 💬 Invites (1 repo)
 
@@ -164,14 +217,15 @@ Une sélection de dépôts autour de l'IA, des agents de codage et des LLM.
 | --- | --- |
 | [f/prompts.chat](https://github.com/f/prompts.chat) | Partager, découvrir & collecter invites communauté (ex Awesome ChatGPT Prompts) ; gratuit, open source |
 
-## 🔧 Outils de données et web (5 repos)
+## 🔧 Outils de données et web (6 repos)
 
 | Dépôt | Description |
 | --- | --- |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | API données web : recherche, scrape, crawl 96% du web avec sortie prête LLM |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Infrastructure de connaissances pour agents : recherche, scraping et 550+ fournisseurs de données via une seule API |
 | [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | Convertir documents (Word, PPT, Excel, PDF, etc.) en Markdown propre (<5ms) |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Transformer bases de code en graphiques connaissances interrogeables (~40 langages) |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Transformer bases de code, docs, schémas SQL et PDF en graphes de connaissances interrogeables |
 | [upstash/context7](https://github.com/upstash/context7) | Docs à jour & exemples code spécifiques version pour assistants IA (pas hallucinations) |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | CLI d'automatisation du navigateur pour agents IA |
 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Supprimer marques provenance IA (Unicode, bidirectionnel, EXIF, XMP) des images/docs |
 
 ## 🎨 Génération de design et interface utilisateur (2 repos)
@@ -181,9 +235,10 @@ Une sélection de dépôts autour de l'IA, des agents de codage et des LLM.
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Compétence IA pour design UI/UX professionnel multi-plateforme |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | Alternative open source Claude Design (app bureau) : prototypes, pages, dashboards, vidéos |
 
-## 🔒 Sécurité (2 repos)
+## 🔒 Sécurité (3 repos)
 
 | Dépôt | Description |
 | --- | --- |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | Compétence auditeur sécurité : 6 phases (reconnaissance, hunting, validation, reporting) |
-| [nvidia/skillspector](https://github.com/nvidia/skillspector) | Scanneur sécurité : analyser compétences agents avant installation (71 patterns, 17 catégories) |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Scanneur sécurité : analyser compétences agents avant installation, dont injection de prompt et exfiltration de données (71 patterns, 17 catégories) |
+| [trailofbits/skills](https://github.com/trailofbits/skills) | Compétences Trail of Bits pour recherche en sécurité, détection de vulnérabilités et audits |
